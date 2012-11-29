@@ -3,7 +3,7 @@
  * @date Nov 24, 2012
  *
  * In this code, I'm trying to prove to myself the importance of
- * passing constant references to functions.
+ * passing constant references.
  * I tried to demonstrate how a pointer can be lost forever.
  *
  * I'm not 100% sure if I got the idea of why constants are important
