@@ -11,7 +11,7 @@
 
 int main(){
 	// For some reason, on my Mac, I need to initalize my first variable here so that
-	// all others occur in order for member.
+	// all others occur in order in memory.
 	int * c = new int(2);
 	// Initalize a new pointer.
 	int *b = new int(2);

@@ -30,8 +30,7 @@ int main(){
 	 * changing the value of refChar, but I'm making sure
 	 * I don't change the value of the unknown memory address,
 	 * otherwise we would segfault, maybe, if you're unlucky.
-	 */
-	/**
+	 *
 	 * All I'm doing here is saying: take 99 and make sure all the bits fill
 	 * up to the size of a char. Then erase all the old binary
 	 * data that baseChar is using (>> 7 and << 7), then combine
