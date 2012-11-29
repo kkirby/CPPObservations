@@ -1,11 +1,9 @@
-C++ Observations
-================
+#C++ Observations
 
 This repo is a gathering of all my observations while trying to learn
 C++.
 
-About Me
---------
+##About Me
 
 I come from a background of Web Development and heavy use in PHP. My
 coding style is very object-oriented.
@@ -13,8 +11,7 @@ coding style is very object-oriented.
 I have no specifically defined style of writing code, so certain things
 about my writing style may change.
 
-Table Of Contents
------------------
+##Table Of Contents
 
 -	<h3>Pointers</h3>
 	Of and relating to all things pointers!
