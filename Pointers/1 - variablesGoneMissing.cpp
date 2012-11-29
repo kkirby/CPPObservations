@@ -1,4 +1,7 @@
 /**
+ * @author Kyle Kirby
+ * @date Nov 24, 2012
+ *
  * In this code, I'm trying to prove to myself the importance of
  * passing constant references to functions.
  * I tried to demonstrate how a pointer can be lost forever.

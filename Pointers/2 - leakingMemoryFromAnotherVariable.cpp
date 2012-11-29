@@ -1,10 +1,11 @@
-#import <stdio.h>
-
 /**
+ * @author Kyle Kirby
+ * @date Nov 28, 2012
+ *
  * In this example, I'm showing how you can overwrite the value of a variable
- * while leaking into the memory of another unknown area.
+ * while leaking into the memory of another unknown memory address.
  */
-
+#import <stdio.h>
 int main(){
 	// I use this is a placeholder.
 	int * refChar;
