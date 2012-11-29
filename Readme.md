@@ -12,20 +12,20 @@ writing style may change.
 
 ##Table Of Contents
 
--  Pointers
+-	###Pointers
    
-   > Of and relating to all things pointers!
+	> Of and relating to all things pointers!
    
-   1. variablesGoneMissing.cpp
+   1.	####variablesGoneMissing.cpp
 
-      > In this code, I'm trying to prove to myself the importance of
-        passing constant references to functions.
-        I tried to demonstrate how a pointer can be lost forever.  
-      >  
-      > I'm not 100% sure if I got the idea of why constants are important
-        or not, but it made for a very interesting result regardless.
+		> In this code, I'm trying to prove to myself the importance of
+		  passing constant references to functions.
+		  I tried to demonstrate how a pointer can be lost forever.  
+		>  
+		> I'm not 100% sure if I got the idea of why constants are important
+		  or not, but it made for a very interesting result regardless.
 
-    2. leakingMemoryFromAnotherVariable.cpp
+	2. ####leakingMemoryFromAnotherVariable.cpp
 
-       > In this example, I'm showing how you can overwrite the value of a variable
-         while leaking into the memory of another unknown memory address.
+		> In this example, I'm showing how you can overwrite the value of a variable
+		  while leaking into the memory of another unknown memory address.
