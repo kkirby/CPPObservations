@@ -5,7 +5,9 @@
  * In this code, I'm showing how you can overwrite the value of a variable
  * while leaking into the memory of another unknown memory address.
  */
-#import <stdio.h>
+
+#include <iostream>
+
 int main(){
 	// I use this is a placeholder.
 	int * refChar;
